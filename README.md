@@ -67,7 +67,7 @@ An AI-based web app to automatically classify resumes into relevant job categori
 
 ---
 
-##📌 Future Improvements
+## 📌 Future Improvements
 
 Upload support for PDF/DOCX resumes
 
@@ -79,7 +79,7 @@ Deploy to Streamlit Cloud / HuggingFace Spaces
 
 
 ---
-##🧠 Sample Prediction Flow
+## 🧠 Sample Prediction Flow
 
 Paste your resume text in the app
 
