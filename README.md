@@ -49,23 +49,45 @@ An AI-based web app to automatically classify resumes into relevant job categori
 
 ## 📁 Project Structure
 
+## 📁 Project Structure
+
+```
 📦 ResumeScreeningAI/
-├── app.py # Main Streamlit app
-├── UpdatedResumeDataSet.csv # Dataset file
-├── tfidf.pkl # Saved TF-IDF vectorizer
-├── LabelEncoder.pkl # Saved LabelEncoder
+├── app.py                     # Main Streamlit app
+├── UpdatedResumeDataSet.csv   # Dataset file
+├── tfidf.pkl                  # Saved TF-IDF vectorizer
+├── LabelEncoder.pkl           # Saved LabelEncoder
 ├── resume_classifier_model.h5 # Trained Keras model
-└── README.md # This file
+└── README.md                  # This file
+```
+
 
 
 
 
 ---
 
-## 🧪 Run the App Locally
+##📌 Future Improvements
 
-### 1. Clone this repo
-```bash
-git clone https://github.com/your-username/resume-screening-ai.git
-cd resume-screening-ai
+Upload support for PDF/DOCX resumes
 
+Highlight keywords based on category
+
+Use advanced models like BERT
+
+Deploy to Streamlit Cloud / HuggingFace Spaces
+
+
+---
+##🧠 Sample Prediction Flow
+
+Paste your resume text in the app
+
+Resume is cleaned and vectorized
+
+Deep learning model predicts job category
+
+Output is displayed in a styled box
+
+
+ 
