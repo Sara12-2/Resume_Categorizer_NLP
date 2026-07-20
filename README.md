@@ -1,4 +1,4 @@
-# 💼 AI-Powered Resume Screening System
+# 💼 ResumeCategorizer ⭐
 
 An AI-based web app to automatically classify resumes into relevant job categories using **Natural Language Processing (NLP)** and a **Deep Learning model**. Built with Streamlit, Keras, and Scikit-learn.
 
